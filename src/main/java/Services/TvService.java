@@ -62,7 +62,7 @@ public class TvService implements Runnable{
                 listener.close();
             }
         }   catch (IOException ex) {
-            Logger.getLogger(AudioService.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(TvService.class.getName()).log(Level.SEVERE, null, ex);
         }
         
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
