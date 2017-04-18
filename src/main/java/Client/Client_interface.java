@@ -26,7 +26,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Mariuss
+ * @author Marius & Mark Kirby
  */
 public class Client_interface extends javax.swing.JFrame {
 
