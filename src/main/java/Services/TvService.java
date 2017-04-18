@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Mariuss
+ * @author Mark Kirby
  */
 public class TvService implements Runnable{
     

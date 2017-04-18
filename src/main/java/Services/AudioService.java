@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Mariuss
+ * @author Mark Kirby
  */
 public class AudioService implements Runnable{
 
